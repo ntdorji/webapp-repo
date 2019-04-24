@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER DevOpsTech
+MAINTAINER NgawangTD
 
 RUN yum -y install httpd
 
